@@ -23,9 +23,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-sakz_jhec&&l)+!fnbx)r((11e)h^@icjnsz)$3x_9k$a2e@e*'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['my-first-project-n5bz.onrender.com']
 
 
 # Application definition
