@@ -8,7 +8,7 @@ from  .models import Topic,Entry
 from  .forms import TopicForm, EntryForm
 # Create your views here.
 
-@login_required
+
 def index(request):
     """ The home page for learning log"""
     return render (request, 'learning_logs/index.html')
