@@ -1,4 +1,4 @@
-Learning Log
+**Learning Log**
 
 A Django web application for tracking learning topics and recording learning progress.
 
