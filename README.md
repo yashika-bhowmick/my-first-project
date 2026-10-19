@@ -2,7 +2,7 @@
 
 A Django web application for tracking learning topics and recording learning progress.
 
-**Technologies:** Python, Django, SQLite, HTML, CSS, Bootstrap.
+**Technologies:** Python, Django, SQLite, HTML, Bootstrap.
 
 **Features:**
 - User registration and login
