@@ -17,4 +17,8 @@ A Django web application for tracking learning topics and recording learning pro
 - Template inheritance
 - User authentication
 
+## Live Demo
+
+Try the Learning Log application here: [Open Live Website](https://my-first-project-n5bz.onrender.com)
+
 Inspired by *Python Crash Course* by Eric Matthes.
